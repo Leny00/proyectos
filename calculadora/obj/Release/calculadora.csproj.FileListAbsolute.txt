@@ -1,0 +1,10 @@
+C:\Users\Leny\source\repos\calculadora\calculadora\bin\Release\calculadora.exe.config
+C:\Users\Leny\source\repos\calculadora\calculadora\bin\Release\calculadora.exe
+C:\Users\Leny\source\repos\calculadora\calculadora\bin\Release\calculadora.pdb
+C:\Users\Leny\source\repos\calculadora\calculadora\obj\Release\calculadora.csproj.AssemblyReference.cache
+C:\Users\Leny\source\repos\calculadora\calculadora\obj\Release\calculadora.Calculadora.resources
+C:\Users\Leny\source\repos\calculadora\calculadora\obj\Release\calculadora.Properties.Resources.resources
+C:\Users\Leny\source\repos\calculadora\calculadora\obj\Release\calculadora.csproj.GenerateResource.cache
+C:\Users\Leny\source\repos\calculadora\calculadora\obj\Release\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Leny\source\repos\calculadora\calculadora\obj\Release\calculadora.exe
+C:\Users\Leny\source\repos\calculadora\calculadora\obj\Release\calculadora.pdb
